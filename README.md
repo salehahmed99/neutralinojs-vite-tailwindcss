@@ -1,6 +1,6 @@
 # neutralinojs-vite-tailwindcss
 
-A modern React template for building Neutralinojs apps using TypeScript, Vite, and Tailwind CSS.
+A modern React + TypeScript template for building Neutralinojs apps powered by Vite and Tailwind CSS.
 
 ## How to install
 
