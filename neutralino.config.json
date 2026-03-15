@@ -9,7 +9,7 @@
   "nativeAllowList": ["app.*", "filesystem.readDirectory"],
   "modes": {
     "window": {
-      "title": "neu-pack",
+      "title": "neutralinojs-vite-tailwindcss",
       "width": 800,
       "height": 500,
       "minWidth": 400,
@@ -18,7 +18,7 @@
     }
   },
   "cli": {
-    "binaryName": "neu-pack",
+    "binaryName": "neutralinojs-vite-tailwindcss",
     "resourcesPath": "/react-src/dist/",
     "extensionsPath": "/extensions/",
     "binaryVersion": "6.5.0",
